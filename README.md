@@ -17,5 +17,7 @@ Diagram of HX711 amplifier connected for 4 wire loadcell
 
 Diagram of HX711 amplifier connected for 3 wire loadcell
 
+![load_cell_arduino](https://user-images.githubusercontent.com/35057450/61209905-a961a500-a703-11e9-9c33-4aa6416e5c6a.jpg)
+
 
 
