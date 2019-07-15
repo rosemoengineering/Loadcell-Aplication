@@ -15,5 +15,7 @@ Diagram of HX711 amplifier connected for 4 wire loadcell
 
 
 
+Diagram of HX711 amplifier connected for 3 wire loadcell
+
 
 
